@@ -1,0 +1,26 @@
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.exe.config
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.exe
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.pdb
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csprojAssemblyReference.cache
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.Form1.resources
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormDisplayEmployee.resources
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormInputEmployee.resources
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormMenu.resources
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.Properties.Resources.resources
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csproj.GenerateResource.cache
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csproj.CoreCompileInputs.cache
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.exe
+C:\Users\4c08\Documents\Ryan OOP\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.pdb
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.exe.config
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.exe
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\bin\Debug\RyanEmployeeWageSystem.pdb
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.Form1.resources
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormDisplayEmployee.resources
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormInputEmployee.resources
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.FormMenu.resources
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.Properties.Resources.resources
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csproj.GenerateResource.cache
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.exe
+C:\Users\User\Documents\CASE\RyanEmployeeWageSystem\obj\Debug\RyanEmployeeWageSystem.pdb
